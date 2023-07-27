@@ -12,7 +12,7 @@ Hey there! I am Saukhya Telge, a third-year undergraduate at [Mechanical departm
 
 Academics
 ======
-* Cumulative Performance Index (CPI) : 9.21
+* Cumulative Performance Index (CPI) : 9.21 (on a scale of 10)
 * Ranked 16th out of 196 students of the Mechanical Department
 * JEE Advanced 2021 All India Rank 1143
 * JEE Mains 2021 All India Rank 1112

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I am Saukhya Telge, a third-year undergraduate at [Mechanical department of IIT Bombay](https://www.me.iitb.ac.in/). I am pursuing a minor degree in Aerospace Engineering at the [Aerospace department of IIT Bombay](https://www.aero.iitb.ac.in/home/) 
+Hey there! I am Saukhya Telge, a third-year undergraduate at [Mechanical department of IIT Bombay](https://www.me.iitb.ac.in/). I am pursuing a minor degree in Aerospace Engineering at the [Aerospace department of IIT Bombay](https://www.aero.iitb.ac.in/home/) My interests lie in Space technology, Thermal and Fluid engineering and control systems. In my free time, I like to come up with engineering solutions to small problems that do not really need solving, such as making an app-based door lock. I love to learn about how the world around us works; from physical phenomena to engineering marvels.  
 
 A data-driven personal website
 ======
